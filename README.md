@@ -58,22 +58,18 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 ## 📊 TABULATION
 ---
-
-**LED FORWARD CHARACTERISTICS**
-<BR><BR>
-**LASER FORWARD CHARACTERISTICS**
-
+<img width="831" height="1280" alt="image" src="https://github.com/user-attachments/assets/54e38bc3-7c7c-452a-be54-9a3b15dc08bf" />
 
 
 ## 📈 GRAPH
 ---
 
 **LED FORWARD CHARACTERISTICS**
+<img width="1209" height="1600" alt="image" src="https://github.com/user-attachments/assets/4c0f5e0e-6613-4785-b470-340e59a2485c" />
+
 <BR><BR>
 **LASER FORWARD CHARACTERISTICS**
-
-
-
+<img width="990" height="1280" alt="image" src="https://github.com/user-attachments/assets/478e4553-e608-4a9c-8c8c-94baac65eb17" />
 
 ## ✅ RESULT
 ---
