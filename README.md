@@ -18,7 +18,6 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 ---
 
 ## 📚 THEORY
-
 In optical fiber communication system, electrical signal is first converted into optical signal with the help of E / O conversion device as LED. After this optical signal is transmitted through optical fiber, it is retrieved in its original electrical form with the help O / E conversion device as photo detector.
 
 Different technologies employed in chip fabrication lead to significant variation in parameters for the various emitter diodes. All the emitters distinguish themselves in offering high output power coupled into the plastic fiber. Data sheets for LEDs usually specify electrical and optical characteristics, out of which are important peak wavelength of emission, conversion efficiency (usually specified in terms of power launched in optical fiber for specified forward current), optical rise and fall ties which put the limitation on operating frequency, maximum forward current through LED and typical forward voltage across LED.
@@ -54,22 +53,23 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 ## 🔌 BLOCK DIAGRAM
 ---
-<img width="1135" height="600" alt="image" src="https://github.com/user-attachments/assets/ee34ea62-0c00-461a-9486-92f22eb0efec" />
+<img width="1035" height="500" alt="image" src="https://github.com/user-attachments/assets/ee34ea62-0c00-461a-9486-92f22eb0efec" />
 
 ## 📊 TABULATION
 ---
-<img width="831" height="1100" alt="image" src="https://github.com/user-attachments/assets/54e38bc3-7c7c-452a-be54-9a3b15dc08bf" />
+<img width="731" height="1000" alt="image" src="https://github.com/user-attachments/assets/54e38bc3-7c7c-452a-be54-9a3b15dc08bf" />
 
 
 ## 📈 GRAPH
 ---
 
 **LED FORWARD CHARACTERISTICS**
-<img width="1209" height="1400" alt="image" src="https://github.com/user-attachments/assets/4c0f5e0e-6613-4785-b470-340e59a2485c" />
+<BR><BR>
+<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/4c0f5e0e-6613-4785-b470-340e59a2485c" />
 
 <BR><BR>
 **LASER FORWARD CHARACTERISTICS**
-<img width="990" height="1100" alt="image" src="https://github.com/user-attachments/assets/478e4553-e608-4a9c-8c8c-94baac65eb17" />
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/478e4553-e608-4a9c-8c8c-94baac65eb17" />
 
 ## ✅ RESULT
 ---
