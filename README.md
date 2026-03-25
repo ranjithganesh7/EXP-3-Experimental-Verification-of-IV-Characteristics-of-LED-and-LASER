@@ -65,7 +65,7 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 
 
-## 📈 MODEL GRAPH
+## 📈 GRAPH
 ---
 
 **LED FORWARD CHARACTERISTICS**
